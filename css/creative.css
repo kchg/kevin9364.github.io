@@ -55,6 +55,10 @@ p {
     background-color: #f05f40;
 }
 
+.bg-light{
+	background-color: #F0EDE3
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
@@ -445,14 +449,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn {
     border: 0;
-    border-radius: 300px;
+    border-radius: 10px;
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
 }
 
 .btn-xl {
-    padding: 15px 30px;
+    padding: 5px 10px;
 }
 
 ::-moz-selection {
